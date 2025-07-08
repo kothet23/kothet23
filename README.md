@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hey, I'm Aung Ko Htet!
 
-I'm the author of **The Journey to DevOps** and, well, a software engineer with a background in cloud-native systems, Kubernetes, Terraform, and CI/CD pipelines. I’ve built apps across backend, Android, iOS, and I’m dying to help teams streamline workflows, improve security, boost development agility, and drive performance. I’m passionate about developing self-service platforms and automating processes, with a focus on optimizing software delivery and scaling infrastructure.
+I'm As a software engineer, I'm captivated by the process of turning complex ideas into functional, elegant code. I'm a continuous learner, always seeking new technologies and approaches to deliver high-quality solutions that solve real-world problems."
 
 
 ## 🌐 Socials:
