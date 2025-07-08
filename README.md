@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hey, I'm Aung Ko Htet!
 
-I'm As a software engineer, I'm captivated by the process of turning complex ideas into functional, elegant code. I'm a continuous learner, always seeking new technologies and approaches to deliver high-quality solutions that solve real-world problems."
+I'm As a software engineer, I'm captivated by the process of turning complex ideas into functional, elegant code. I'm a continuous learner, always seeking new technologies and approaches to deliver high-quality solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
